@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="https://openlayers.org/en/v3.20.1/css/ol.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+
+    <script src="https://openlayers.org/en/v3.20.1/build/ol.js" type="text/javascript"></script>
+    <script src="js/map.js" type="text/javascript"></script>
+
+    <title>Japan 2017</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <div id="map" class="cell map"></div>
+
+      <div id="panel" class="cell panel"></div>
+    </flex>
+
+    <script type="text/javascript">
+      function emptyElement(element) {
+        while(element.firstChild) {
+          element.removeChild(element.firstChild);
+        }
+      }
+
+      function pollUrl(latLonZoom) {
+        var query = window.location.search;
+        if (query) {
+          var parts = query.substring(1).split(',');
+          if (parts.length === 3) {
+            latLonZoom[0] = parseFloat(parts[0]);
+            latLonZoom[1] = parseFloat(parts[1]);
+            latLonZoom[2] = parseInt(parts[2]);
+          }
+        } else {
+          window.location.search = lat + ',' + lon + ',' + zoom;
+        }
+
+        return latLonZoom;
+      }
+
+      function onContentLoaded() {
+        var latLonZoom = [35.5777251, 137.5931631, 5];
+
+        var hash = window.location.hash;
+
+        //var latLonZoom = pollUrl(latLonZoom);
+
+        var map = new Map();
+
+        map.setCenter(latLonZoom[0], latLonZoom[1], latLonZoom[2]);
+
+        /*
+        map.map.on('click', function(evt){
+          var latLon = map.toLatLon(evt.coordinate);
+          var newSpan = document.createElement('div');
+          newSpan.appendChild(document.createTextNode(
+            'lat="' + latLon[0] + '" lon="' + latLon[1] + '"'
+          ));
+          document.getElementById('panel').appendChild(newSpan);
+        });
+        */
+
+        //
+        map.map.on('moveend', function(evt) {
+          console.log(latLonZoom);
+          var latLon = map.toLatLon(evt.map.getView().getCenter());
+          console.log(latLon);
+          var latLonZoom = pollUrl([latLon[0], latLon[1], evt.map.getView().getZoom()]);
+        });
+
+        //
+        var selectInteraction = new ol.interaction.Select();
+
+        selectInteraction.getFeatures().on('add', function (evt) {
+          var feature = evt.element; // The feature selected.
+          var name = feature.get('name');
+          var desc = feature.get('desc');
+
+          var fragment = document.createDocumentFragment();
+
+          var panel = document.getElementById('panel');
+          emptyElement(panel);
+
+          var h1 = document.createElement('h1');
+          h1.appendChild(document.createTextNode(name));
+
+          var div = document.createElement('div');
+          div.innerHTML = desc;
+
+          fragment.appendChild(h1);
+          fragment.appendChild(div);
+
+          panel.appendChild(fragment);
+        });
+
+        map.map.addInteraction(selectInteraction);
+
+        map.loadGPX('data/data.gpx');
+      }
+
+      document.addEventListener(
+          'DOMContentLoaded',
+          onContentLoaded);
+    </script>
+  </body>
+</html>

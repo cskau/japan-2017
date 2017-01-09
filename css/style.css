@@ -1,0 +1,44 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+
+.map {
+  flex: 1 1 auto;
+  padding: 0;
+  margin: 0;
+}
+
+.panel {
+  width: 300px;
+  vertical-align: top;
+  padding: 1em;
+  box-sizing: border-box;
+  overflow-y: scroll;
+  font-family: 14pt;
+  font-size: Georgia, Times, Times New Roman, serif;
+  line-height: 150%;
+  word-wrap: break-word;
+}
+
+.panel h1 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 16pt;
+}
+
+.panel img {
+  max-width: 100%;
+  height: auto;
+}

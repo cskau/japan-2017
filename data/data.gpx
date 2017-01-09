@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0">
+  <name>Hiking 2017</name>
+
+  <wpt lat="35.5777251" lon="137.5931631">
+    <name>Tsumago-juku (妻籠宿)</name>
+    <desc>
+      ..
+
+      &lt;a href="http://www.tumago.jp/" target="_blank"&gt;
+        http://www.tumago.jp/
+      &lt;/a&gt;
+      &lt;a href="https://www.jnto.go.jp/eng/spot/histarch/tsumagojuku.html" target="_blank"&gt;
+        https://www.jnto.go.jp/eng/spot/histarch/tsumagojuku.html
+      &lt;/a&gt;
+    </desc>
+  </wpt>
+
+  <wpt lat="34.214096" lon="135.584117">
+    <name>Kongobuji / Kōya (金剛峯寺 / 高野)</name>
+    <desc>
+      https://upload.wikimedia.org/wikipedia/commons/0/0b/Mount_Koya.jpg
+      https://upload.wikimedia.org/wikipedia/commons/e/ef/Kongobuji_Temple%2C_Koyasan%2C_Japan_-_Banryutei_rock_garden.JPG
+      https://upload.wikimedia.org/wikipedia/commons/c/cd/Kongosanmaiin_Tahoto.JPG
+      https://en.wikipedia.org/wiki/Mount_K%C5%8Dya
+    </desc>
+    <type>
+      Temple
+    </type>
+  </wpt>
+
+  <wpt lat="34.183784" lon="135.604429">
+    <name>Mt. Kōya (高野山)</name>
+    <desc>
+      https://en.wikipedia.org/wiki/Mount_K%C5%8Dya
+    </desc>
+    <type>
+      Mountain
+    </type>
+  </wpt>
+
+  <wpt lat="33.668805" lon="135.889871">
+    <name>Kumano Nachi Taisha Shrine (熊野那智大社)</name>
+    <desc>
+      http://walkkumano.com
+      https://en.wikipedia.org/wiki/Kumano_Kod%C5%8D
+    </desc>
+    <type>
+      Shrine
+    </type>
+  </wpt>
+
+  <wpt lat="33.840253" lon="135.773618">
+    <name>Kumano Hongū Taisha Shrine (熊野本宮大社)</name>
+    <desc>
+      http://walkkumano.com
+      https://en.wikipedia.org/wiki/Kumano_Kod%C5%8D
+    </desc>
+    <type>
+      Shrine
+    </type>
+  </wpt>
+
+  <wpt lat="33.731807" lon="135.983684">
+    <name>Kumano Hayatama Taisha Shrine (熊野速玉大社)</name>
+    <desc>
+      http://walkkumano.com
+      https://en.wikipedia.org/wiki/Kumano_Kod%C5%8D
+    </desc>
+    <type>
+      Shrine
+    </type>
+  </wpt>
+
+  <wpt lat="34.454966" lon="136.725825">
+    <name>Ise Grand Shrine (伊勢神宮)</name>
+    <desc>
+      http://walkkumano.com
+      https://en.wikipedia.org/wiki/Kumano_Kod%C5%8D
+    </desc>
+    <type>
+      Shrine
+    </type>
+  </wpt>
+
+  <wpt lat="34.0540566" lon="135.7553148">
+    <name>Kumano Kodo (熊野古道)</name>
+    <desc>
+      The Kumano Kodō (熊野古道) is a series of ancient pilgrimage routes that
+      crisscross the Kii Hantō, the largest Peninsula of Japan.
+      These sacred trails were and are used for the pilgrimage to the sacred
+      site "Kumano Sanzan" (熊野三山) or the Three Grand Shrines of Kumano:
+      Kumano Hongū Taisha (熊野本宮大社), Kumano Nachi Taisha (熊野那智大社) and
+      Kumano Hayatama Taisha (熊野速玉大社).
+      https://en.wikipedia.org/wiki/Kumano_Kod%C5%8D
+      http://walkkumano.com
+    </desc>
+    <type>
+      Start
+    </type>
+  </wpt>
+
+  <trk>
+    <name>Kumano Kodō (熊野古道)</name>
+    <trkseg>
+      <trkpt lat="33.733022" lon="135.383961" name="Kii Tanabe"></trkpt>
+      <trkpt lat="33.775544" lon="135.503727" name="Takijiri-Oji (滝尻王子)"></trkpt>
+      <trkpt lat="33.794257" lon="135.529339" name="Takaharakumano Shrine (高原熊野神社)"></trkpt>
+      <trkpt lat="33.828310" lon="135.634189" name="Tsugizakura-Oji (継桜王子跡)"></trkpt>
+      <trkpt lat="33.864006" lon="135.735174" name="Hosshinmon-Oji (発心門王子)"></trkpt>
+      <trkpt lat="33.828848" lon="135.757470" name="Yunomine Hot Spring (湯の峰温泉)"></trkpt>
+      <trkpt lat="33.758041" lon="135.840468" name="Koguchi ()"></trkpt>
+      <trkpt lat="33.668805" lon="135.889871" name="Kumano Nachi Taisha Shrine (熊野那智大社)"></trkpt>
+    </trkseg>
+  </trk>
+
+  <wpt lat="36.9293689" lon="139.2210386">
+    <name>Oze National Park (尾瀬国立公園)</name>
+    <desc>
+    </desc>
+    <type>
+      National Park
+    </type>
+  </wpt>
+
+  <wpt lat="36.2513246" lon="137.6510463">
+    <name>kamikochi ()</name>
+    <desc>
+      http://www.kamikochi.org/
+      http://www.kamikochi.or.jp/
+    </desc>
+  </wpt>
+
+  <wpt lat="35.841934" lon="137.692339">
+    <name>Kiso (木曽町)</name>
+    <desc>
+    </desc>
+  </wpt>
+
+  <wpt lat="36.5791196" lon="137.568721">
+    <name>Tateyama Kurobe ()</name>
+    <desc>
+    </desc>
+  </wpt>
+
+  <wpt lat="31.858559" lon="130.871417">
+    <name>Kirishima ()</name>
+    <desc>
+    </desc>
+  </wpt>
+
+  <wpt lat="43.674642" lon="142.907207">
+    <name>Daisetsuzan National Park (大雪山国立公)</name>
+    <desc>
+    </desc>
+    <type>
+      National Park
+    </type>
+  </wpt>
+
+  <wpt lat="36.289149" lon="137.648066">
+    <name>Mt Oku-Hotaka, Nagano (穗高岳)</name>
+    <desc>
+      Mount Hotaka (穂高岳 Hotaka-dake), also known as Mount Hotakadake,
+      is one of the 100 Famous Japanese Mountains,
+      https://en.wikipedia.org/wiki/Mount_Hotakadake
+    </desc>
+    <type>
+      Mountain
+    </type>
+  </wpt>
+
+  <wpt lat="36.623278" lon="137.617076">
+    <name>Mt. Tsurugi, Toyama ()</name>
+    <desc>
+    </desc>
+    <type>
+      Mountain
+    </type>
+  </wpt>
+
+  <wpt lat="34.159803" lon="134.502592">
+    <name>Shikoku 88 Temple Pilgrimage (八十八ヶ所巡り)</name>
+    <desc>
+      https://en.wikipedia.org/wiki/Shikoku_Pilgrimage
+      http://www.shikokuhenrotrail.com/
+      http://wikitravel.org/en/88_Temple_Pilgrimage
+      http://www.tourismshikoku.org/henro/
+    </desc>
+    <type>
+      Start
+    </type>
+  </wpt>
+
+  <trk>
+    <name>Shikoku 88 Temple Pilgrimage (八十八ヶ所巡り)</name>
+    <trkseg>
+      <trkpt lat="34.159803" lon="134.502592" name="Ryōzen-ji (霊山寺)"></trkpt>
+      <trkpt lat="34.155556" lon="134.490278" name="Gokuraku-ji (極楽寺)"></trkpt>
+      <trkpt lat="34.147436" lon="134.468544" name="Konsen-ji (金泉寺)"></trkpt>
+      <trkpt lat="34.151306" lon="134.430889" name="Dainichi-ji (大日寺)"></trkpt>
+      <trkpt lat="34.137222" lon="134.431944" name="Jizō-ji (地蔵寺)"></trkpt>
+      <trkpt lat="34.118056" lon="134.388389" name="Anraku-ji (安楽寺)"></trkpt>
+      <trkpt lat="34.12075" lon="134.377925" name="Jūraku-ji (十楽寺)"></trkpt>
+      <trkpt lat="34.122778" lon="134.34" name="Kumadani-ji (熊谷寺)"></trkpt>
+      <trkpt lat="34.104378" lon="134.333814" name="Hōrin-ji (法輪寺)"></trkpt>
+      <trkpt lat="34.10775" lon="134.304278" name="Kirihata-ji (切幡寺)"></trkpt>
+      <trkpt lat="34.051667" lon="134.3485" name="Fujii-dera (藤井寺)"></trkpt>
+      <trkpt lat="33.985028" lon="134.31025" name="Shōsan-ji (焼山寺)"></trkpt>
+      <trkpt lat="34.038117" lon="134.462683" name="Dainichi-ji (大日寺)"></trkpt>
+      <trkpt lat="34.050333" lon="134.475639" name="Jōraku-ji (常楽寺)"></trkpt>
+      <trkpt lat="34.055611" lon="134.473611" name="Awa Kokubun-ji (阿波国分寺)"></trkpt>
+      <trkpt lat="34.068472" lon="134.474344" name="Kannon-ji (観音寺)"></trkpt>
+      <trkpt lat="34.085167" lon="134.485444" name="Ido-ji (井戸寺)"></trkpt>
+      <trkpt lat="33.986" lon="134.57825" name="Onzan-ji (恩山寺)"></trkpt>
+      <trkpt lat="33.967861" lon="134.605806" name="Tatsue-ji (立江寺)"></trkpt>
+      <trkpt lat="33.913861" lon="134.505611" name="Kakurin-ji (鶴林寺)"></trkpt>
+      <trkpt lat="33.882528" lon="134.521889" name="Tairyūji (太竜寺)"></trkpt>
+      <trkpt lat="33.851833" lon="134.582778" name="Byōdō-ji (Tokushima) (平等寺)"></trkpt>
+      <trkpt lat="33.732306" lon="134.527583" name="Yakuō-ji (薬王寺)"></trkpt>
+      <trkpt lat="33.249008" lon="134.175739" name="Hotsumisaki-ji (最御崎寺)"></trkpt>
+      <trkpt lat="33.287806" lon="134.14825" name="Shinshō-ji (津照寺)"></trkpt>
+      <trkpt lat="33.307222" lon="134.122861" name="Kongōchō-ji (金剛頂寺)"></trkpt>
+      <trkpt lat="33.467611" lon="133.974778" name="Kōnomine-ji (神峰寺)"></trkpt>
+      <trkpt lat="33.577583" lon="133.705389" name="Dainichi-ji (大日寺)"></trkpt>
+      <trkpt lat="33.598694" lon="133.640417" name="Tosa Kokubun-ji (土佐国分寺)"></trkpt>
+      <trkpt lat="33.591917" lon="133.577556" name="Zenrakuji (善楽寺)"></trkpt>
+      <trkpt lat="33.546611" lon="133.577472" name="Chikurin-ji (竹林寺)"></trkpt>
+      <trkpt lat="33.526694" lon="133.611389" name="Zenjibu-ji (禅師峰寺)"></trkpt>
+      <trkpt lat="33.500833" lon="133.543083" name="Sekkei-ji (雪蹊寺)"></trkpt>
+      <trkpt lat="33.491722" lon="133.487583" name="Tanema-ji (種間寺)"></trkpt>
+      <trkpt lat="33.5125" lon="133.4095" name="Kiyotaki-ji (清滝寺)"></trkpt>
+      <trkpt lat="33.426" lon="133.450806" name="Shōryū-ji (青竜寺)"></trkpt>
+      <trkpt lat="33.207972" lon="133.134611" name="Iwamoto-ji (岩本寺)"></trkpt>
+      <trkpt lat="32.726028" lon="133.018556" name="Kongōfuku-ji (金剛福寺)"></trkpt>
+      <trkpt lat="32.961306" lon="132.774056" name="Enkō-ji (延光寺)"></trkpt>
+      <trkpt lat="32.964667" lon="132.564056" name="Kanjizai-ji (観自在寺)"></trkpt>
+      <trkpt lat="33.295194" lon="132.5985" name="Ryūkōji (竜光寺)"></trkpt>
+      <trkpt lat="33.310583" lon="132.581472" name="Butsumoku-ji (佛木寺)"></trkpt>
+      <trkpt lat="33.369222" lon="132.518972" name="Meiseki-ji (明石寺)"></trkpt>
+      <trkpt lat="33.660889" lon="132.912083" name="Daihō-ji (大宝寺)"></trkpt>
+      <trkpt lat="33.658667" lon="132.980722" name="Iwaya-ji (ja) (岩屋寺)"></trkpt>
+      <trkpt lat="33.753556" lon="132.819111" name="Jōruri-ji (浄瑠璃寺)"></trkpt>
+      <trkpt lat="33.757944" lon="132.812861" name="Yasaka-ji (八坂寺)"></trkpt>
+      <trkpt lat="33.793722" lon="132.813944" name="Sairin-ji (西林寺)"></trkpt>
+      <trkpt lat="33.816667" lon="132.808528" name="Jōdo-ji (浄土寺)"></trkpt>
+      <trkpt lat="33.828139" lon="132.804556" name="Hanta-ji (繁多寺)"></trkpt>
+      <trkpt lat="33.847861" lon="132.796472" name="Ishite-ji (石手寺)"></trkpt>
+      <trkpt lat="33.885083" lon="132.714972" name="Taisan-ji (太山寺)"></trkpt>
+      <trkpt lat="33.89175" lon="132.739667" name="Enmyō-ji (圓明寺)"></trkpt>
+      <trkpt lat="34.066833" lon="132.964" name="Enmei-ji (延命寺)"></trkpt>
+      <trkpt lat="34.06875" lon="132.99575" name="Nankōbō (南光坊)"></trkpt>
+      <trkpt lat="34.050111" lon="132.974583" name="Taisan-ji (泰山寺)"></trkpt>
+      <trkpt lat="34.029472" lon="132.978472" name="Eifuku-ji (栄福寺)"></trkpt>
+      <trkpt lat="34.013194" lon="132.977361" name="Senyū-ji (仙遊寺)"></trkpt>
+      <trkpt lat="34.026167" lon="133.025444" name="Iyo Kokubun-ji (伊予国分寺)"></trkpt>
+      <trkpt lat="33.837861" lon="133.111139" name="Yokomine-ji (横峰寺)"></trkpt>
+      <trkpt lat="33.893528" lon="133.103306" name="Kōon-ji (香園寺)"></trkpt>
+      <trkpt lat="33.897333" lon="133.114944" name="Hōju-ji (宝寿寺)"></trkpt>
+      <trkpt lat="33.896056" lon="133.129167" name="Kichijō-ji (吉祥寺)"></trkpt>
+      <trkpt lat="33.890222" lon="133.160667" name="Maegami-ji (前神寺)"></trkpt>
+      <trkpt lat="33.967639" lon="133.5865" name="Sankaku-ji (三角寺)"></trkpt>
+      <trkpt lat="34.035222" lon="133.723722" name="Unpen-ji (雲辺寺)"></trkpt>
+      <trkpt lat="34.102194" lon="133.719167" name="Daikō-ji (大興寺)"></trkpt>
+      <trkpt lat="34.133986" lon="133.647333" name="Jinne-in (神恵院)"></trkpt>
+      <trkpt lat="34.1345" lon="133.647528" name="Kannon-ji (観音寺)"></trkpt>
+      <trkpt lat="34.139667" lon="133.694056" name="Motoyama-ji (本山寺)"></trkpt>
+      <trkpt lat="34.229722" lon="133.724261" name="Iyadani-ji (弥谷寺)"></trkpt>
+      <trkpt lat="34.219389" lon="133.750278" name="Mandara-ji (曼荼羅寺)"></trkpt>
+      <trkpt lat="34.223306" lon="133.750219" name="Shusshakaji (出釈迦寺)"></trkpt>
+      <trkpt lat="34.233194" lon="133.765764" name="Kōyama-ji (甲山寺)"></trkpt>
+      <trkpt lat="34.225111" lon="133.774139" name="Zentsū-ji (善通寺)"></trkpt>
+      <trkpt lat="34.250097" lon="133.781014" name="Konzō-ji (金倉寺)"></trkpt>
+      <trkpt lat="34.27675" lon="133.762694" name="Dōryū-ji (道隆寺)"></trkpt>
+      <trkpt lat="34.306694" lon="133.824583" name="Gōshō-ji (郷照寺)"></trkpt>
+      <trkpt lat="34.311472" lon="133.882861" name="Tennō-ji (天皇寺)"></trkpt>
+      <trkpt lat="34.303139" lon="133.944167" name="Sanuki Kokubun-ji (讃岐国分寺)"></trkpt>
+      <trkpt lat="34.333528" lon="133.926764" name="Shiromine-ji (白峯寺)"></trkpt>
+      <trkpt lat="34.3445" lon="133.960556" name="Negoro-ji (根香寺)"></trkpt>
+      <trkpt lat="34.286611" lon="134.026583" name="Ichinomiya-ji (一宮寺)"></trkpt>
+      <trkpt lat="34.357917" lon="134.10125" name="Yashima-ji (屋島寺)"></trkpt>
+      <trkpt lat="34.359889" lon="134.139528" name="Yakuri-ji (八栗寺)"></trkpt>
+      <trkpt lat="34.324306" lon="134.179639" name="Shido-ji (志度寺)"></trkpt>
+      <trkpt lat="34.266706" lon="134.171719" name="Nagao-ji (長尾寺)"></trkpt>
+      <trkpt lat="34.191408" lon="134.206733" name="Ōkubo-ji (大窪寺)"></trkpt>
+    </trkseg>
+  </trk>
+
+  <wpt lat="36.027278" lon="139.120694">
+    <name>Chichibu 34 Kannon Sanctuary (秩父三十四箇所 Chichibu Sanjūyon-kasho)</name>
+    <desc>
+      https://en.wikipedia.org/wiki/Chichibu_34_Kannon_Sanctuary
+    </desc>
+    <type>
+      Start
+    </type>
+  </wpt>
+
+  <trk>
+    <name>Chichibu 34 Kannon Sanctuary (秩父三十四箇所 Chichibu Sanjūyon-kasho)</name>
+    <trkseg>
+      <trkpt lat="36.027278" lon="139.120694" name="Shimabu-ji"></trkpt>
+      <trkpt lat="36.0145" lon="139.131222" name="Shimpuku-ji"></trkpt>
+      <trkpt lat="36.011944" lon="139.106611" name="Jōsen-ji"></trkpt>
+      <trkpt lat="36.006556" lon="139.1135" name="Kinshō-ji"></trkpt>
+      <trkpt lat="35.998806" lon="139.106" name="Goka-dō"></trkpt>
+      <trkpt lat="35.983694" lon="139.11425" name="Boku'un-ji"></trkpt>
+      <trkpt lat="35.983833" lon="139.107889" name="Hōchō-ji"></trkpt>
+      <trkpt lat="35.973056" lon="139.108694" name="Saizen-ji"></trkpt>
+      <trkpt lat="35.984083" lon="139.102806" name="Akechi-ji"></trkpt>
+      <trkpt lat="35.997167" lon="139.095722" name="Daiji-ji"></trkpt>
+      <trkpt lat="35.993361" lon="139.090778" name="Jōraku-ji"></trkpt>
+      <trkpt lat="35.983417" lon="139.085556" name="Nosaka-ji"></trkpt>
+      <trkpt lat="35.992389" lon="139.082722" name="Jigen-ji"></trkpt>
+      <trkpt lat="35.995083" lon="139.078639" name="Imamiya-bō"></trkpt>
+      <trkpt lat="35.995222" lon="139.08525" name="Shōrin-ji"></trkpt>
+      <trkpt lat="36.000583" lon="139.077472" name="Saikō-ji"></trkpt>
+      <trkpt lat="36.005722" lon="139.08425" name="Jōrin-ji"></trkpt>
+      <trkpt lat="36.009972" lon="139.092389" name="Gōdo-ji"></trkpt>
+      <trkpt lat="36.0175" lon="139.089167" name="Ryūseki-ji"></trkpt>
+      <trkpt lat="36.017444" lon="139.084472" name="Iwanoue-dō"></trkpt>
+      <trkpt lat="36.015944" lon="139.077917" name="Kannon-ji"></trkpt>
+      <trkpt lat="36.00725" lon="139.073167" name="Dōji-dō"></trkpt>
+      <trkpt lat="36.006028" lon="139.062083" name="Ongaku-ji"></trkpt>
+      <trkpt lat="35.9875" lon="139.060972" name="Hōsen-ji"></trkpt>
+      <trkpt lat="35.971583" lon="139.048778" name="Kyūshō-ji"></trkpt>
+      <trkpt lat="35.972472" lon="139.073" name="Enyū-ji"></trkpt>
+      <trkpt lat="35.967694" lon="139.066833" name="Daien-ji"></trkpt>
+      <trkpt lat="35.9605" lon="139.061028" name="Hashidate-dō"></trkpt>
+      <trkpt lat="35.960333" lon="139.05" name="Chōsen-in"></trkpt>
+      <trkpt lat="35.951278" lon="138.991417" name="Hōun-ji"></trkpt>
+      <trkpt lat="36.041056" lon="138.953861" name="Kannon-in"></trkpt>
+      <trkpt lat="35.996639" lon="139.012944" name="Hōshō-ji"></trkpt>
+      <trkpt lat="36.030889" lon="139.042278" name="Kikusui-ji"></trkpt>
+      <trkpt lat="36.081833" lon="139.053778" name="Suisen-ji"></trkpt>
+    </trkseg>
+  </trk>
+
+
+  <!--
+  http://www.halfwayanywhere.com/asia/japan/15-things-to-know-before-hiking-in-japan/
+  https://www.skyscanner.net/news/top-15-japanese-hikes
+  https://hanameizan.wordpress.com/
+  http://www.japan-guide.com/e/e2427.html
+  https://www.lonelyplanet.com/japan/travel-tips-and-articles/76878
+  http://www.jnto.go.jp/eng/regional/nagano/kiso.html
+
+  https://github.com/cskau/bicycle-japan-2012
+  https://github.com/cskau/hongkong-2014
+  https://github.com/cskau/housing-map
+  -->
+
+  <wpt lat="26.444984" lon="127.771355">
+    <name>Cape Maeda (真栄田岬)</name>
+    <desc>
+      &lt;p&gt;
+        Det mest populære snorkling spot på hovedøen, med mange dykkerbutikker
+        og andre faciliteter i området.
+        Der er et variet marine-fauna og en klippehule det er muligt at svømme
+        ind i, og er et godt sted for nybegyndere til snorkling.
+      &lt;/p&gt;
+
+      &lt;a href="http://okinawa.stripes.com/travel/grab-mask-snorkel-explore-okinawa%E2%80%99s-marvelous-water-world" target="_blank"&gt;
+        http://okinawa.stripes.com/travel/grab-mask-snorkel-explore-okinawa%E2%80%99s-marvelous-water-world
+      &lt;/a&gt;
+
+      &lt;a href="http://okinawahai.com/diving-snorkeling-maeda-point-maeda-flats/" target="_blank"&gt;
+        &lt;img src="http://okinawahai.com/images/old/6a00e54ee8a8ff88330133f29ed1ad970b-500wi.jpg" /&gt;
+        http://okinawahai.com/diving-snorkeling-maeda-point-maeda-flats/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Beach
+    </type>
+  </wpt>
+
+  <wpt lat="26.44290" lon="127.768780">
+    <name>Maeda Flats ()</name>
+    <desc>
+      &lt;p&gt;
+        Lige rundt om hjørnet fra Maeda Point, hvilket gør det et mulig alternativ
+        hvis vandet er oprørt.
+      &lt;/p&gt;
+
+      &lt;a href="http://okinawahai.com/diving-snorkeling-maeda-point-maeda-flats/" target="_blank"&gt;
+        &lt;img src="http://okinawahai.com/images/old/6a00e54ee8a8ff88330133f29ed4df970b-500wi.jpg" /&gt;
+        http://okinawahai.com/diving-snorkeling-maeda-point-maeda-flats/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Beach
+    </type>
+  </wpt>
+
+  <wpt lat="26.089511908836613" lon="127.70962754887886">
+    <name>Odo Kaigan (大度浜海岸)</name>
+    <desc>
+    </desc>
+    <type>
+      Beach
+    </type>
+  </wpt>
+
+  <wpt lat="26.206449181589804" lon="127.30289863095656">
+    <name>Kerama Islands (慶良間諸島)</name>
+    <desc>
+      &lt;p&gt;
+        En gruppe af små øer 40km syd-vest fra Okinawas hovedø, der hovedsageligt
+        består af Zamami (座間味島), Tokashiki (渡嘉敷島), Aka (阿嘉島)
+        and Geruma. Øgruppen er fornyligt blevet erklæret en national park.
+      &lt;/p&gt;
+
+      &lt;p&gt;
+        Det tager 50-70 mins at sejle mellem Naha – Zamami med færge, der gør
+        det muligt at besøge Kerama på en dagstur -
+        ud om morgenen, tilbage hen på eftermiddagen.
+      &lt;/p&gt;
+
+      &lt;p&gt;
+        På Zamami er der to strande, Furuzamami og Ama, der begge har hvidt sand,
+        crystal klart vand, og koraller lige ud fra stranden til snorkling.
+      &lt;/p&gt;
+
+      &lt;a href="http://zoomingjapan.com/travel/kerama-islands/" target="_blank"&gt;
+        http://zoomingjapan.com/travel/kerama-islands/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Island
+    </type>
+  </wpt>
+
+  <!--
+    https://okinawa-labo.com/en/okinawa-beach-3005
+
+    Blue Cave (Okinawa Main Island)
+    http://en.okinawastory.jp/thingstodo/diving/snorkel/
+
+    Sunabe Seawall
+    Nanbu - Channel Crevice
+    http://www.reefencounters.org/shorenight-diving.html
+
+    https://www.mccsokinawa.com/dive_sites/?withurl=1
+    http://www.japan-guide.com/e/e7119.html
+  -->
+</gpx>
