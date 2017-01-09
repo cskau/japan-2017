@@ -24,7 +24,11 @@
         }
       }
 
-      function pollUrl(latLonZoom) {
+      function onContentLoaded() {
+        var latLonZoom = [35.5777251, 137.5931631, 5];
+
+        var hash = window.location.hash;
+
         var query = window.location.search;
         if (query) {
           var parts = query.substring(1).split(',');
@@ -33,19 +37,7 @@
             latLonZoom[1] = parseFloat(parts[1]);
             latLonZoom[2] = parseInt(parts[2]);
           }
-        } else {
-          window.location.search = lat + ',' + lon + ',' + zoom;
         }
-
-        return latLonZoom;
-      }
-
-      function onContentLoaded() {
-        var latLonZoom = [35.5777251, 137.5931631, 5];
-
-        var hash = window.location.hash;
-
-        //var latLonZoom = pollUrl(latLonZoom);
 
         var map = new Map();
 
@@ -64,10 +56,8 @@
 
         //
         map.map.on('moveend', function(evt) {
-          console.log(latLonZoom);
           var latLon = map.toLatLon(evt.map.getView().getCenter());
-          console.log(latLon);
-          var latLonZoom = pollUrl([latLon[0], latLon[1], evt.map.getView().getZoom()]);
+          window.location.search = latLon[0] + ',' + latLon[1] + ',' + evt.map.getView().getZoom();
         });
 
         //
