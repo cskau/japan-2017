@@ -28,9 +28,7 @@
         var latLonZoom = [35.5777251, 137.5931631, 5];
 
         var hash = window.location.hash;
-
-        var query = window.location.search;
-        if (query) {
+        if (hash) {
           var parts = query.substring(1).split(',');
           if (parts.length === 3) {
             latLonZoom[0] = parseFloat(parts[0]);
@@ -57,7 +55,7 @@
         //
         map.map.on('moveend', function(evt) {
           var latLon = map.toLatLon(evt.map.getView().getCenter());
-          window.location.search = latLon[0] + ',' + latLon[1] + ',' + evt.map.getView().getZoom();
+          window.location.hash = latLon[0] + ',' + latLon[1] + ',' + evt.map.getView().getZoom();
         });
 
         //
