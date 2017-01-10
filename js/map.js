@@ -8,6 +8,9 @@ var Map = function() {
 
   var typeIcons = {
     // Icons sourced from the Android emojis.
+    'POI' : 'img/triangular-flag-on-post.png',
+    'Lodging' : 'img/bed.png',
+    'Castle' : 'img/japanese-castle.png',
     'Mountain' : 'img/snow-capped-mountain.png',
     'National Park' : 'img/national-park.png',
     'Island' : 'img/desert-island.png',

@@ -344,11 +344,8 @@
   http://www.japan-guide.com/e/e2427.html
   https://www.lonelyplanet.com/japan/travel-tips-and-articles/76878
   http://www.jnto.go.jp/eng/regional/nagano/kiso.html
-
-  https://github.com/cskau/bicycle-japan-2012
-  https://github.com/cskau/hongkong-2014
-  https://github.com/cskau/housing-map
   -->
+
 
   <wpt lat="26.444984" lon="127.771355">
     <name>Cape Maeda (真栄田岬)</name>
@@ -430,17 +427,123 @@
     </type>
   </wpt>
 
-  <!--
-    https://okinawa-labo.com/en/okinawa-beach-3005
+  <wpt lat="26.391590" lon="127.723238">
+    <name> (海の邦 都屋)</name>
+    <desc>
+      &lt;a href="http://www.uminokuni-toya.com/" target="_blank"&gt;
+        http://www.uminokuni-toya.com/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Lodging
+    </type>
+  </wpt>
 
-    Blue Cave (Okinawa Main Island)
-    http://en.okinawastory.jp/thingstodo/diving/snorkel/
+  <wpt lat="26.643843" lon="127.865245">
+    <name> (島宿くくる)</name>
+    <desc>
+      &lt;a href="http://hotel.travel.rakuten.co.jp/hinfo/158641/" target="_blank"&gt;
+        http://hotel.travel.rakuten.co.jp/hinfo/158641/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Lodging
+    </type>
+  </wpt>
 
-    Sunabe Seawall
-    Nanbu - Channel Crevice
-    http://www.reefencounters.org/shorenight-diving.html
+  <wpt lat="26.651378" lon="127.866099">
+    <name>Sesoko Island ()</name>
+    <desc>
+      &lt;a href="http://www.sesokobeach.jp/" target="_blank"&gt;
+        http://www.sesokobeach.jp/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Island
+    </type>
+  </wpt>
 
-    https://www.mccsokinawa.com/dive_sites/?withurl=1
-    http://www.japan-guide.com/e/e7119.html
-  -->
+  <wpt lat="26.648760" lon="127.817895">
+    <name>Minna Island ()</name>
+    <desc>
+      &lt;a href="http://www.minna-beach.com/" target="_blank"&gt;
+        http://www.minna-beach.com/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Island
+    </type>
+  </wpt>
+
+  <wpt lat="26.686388" lon="128.005844">
+    <name>KonkiMura ()</name>
+    <desc>
+      &lt;a href="http://konkimura.jp/" target="_blank"&gt;
+        http://konkimura.jp/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Lodging
+    </type>
+  </wpt>
+
+  <wpt lat="26.222988" lon="127.308250">
+    <name> (古座間味ビーチ)</name>
+    <desc>
+      &lt;a href="http://www.vill.zamami.okinawa.jp/guidemap/detail/154/" target="_blank"&gt;
+        http://www.vill.zamami.okinawa.jp/guidemap/detail/154/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Beach
+    </type>
+  </wpt>
+
+  <wpt lat="26.216995" lon="127.719174">
+    <name>Shurijo Castle (首里城)</name>
+    <desc>
+      &lt;a href="http://oki-park.jp/shurijo/" target="_blank"&gt;
+        http://oki-park.jp/shurijo/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Castle
+    </type>
+  </wpt>
+
+  <wpt lat="26.694235" lon="127.877728">
+    <name>Okinawa Churaumi Aquarium (沖縄美ら海水族館)</name>
+    <desc>
+      &lt;a href="https://churaumi.okinawa/" target="_blank"&gt;
+        https://churaumi.okinawa/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      POI
+    </type>
+  </wpt>
+
+  <wpt lat="26.443092" lon="127.772818">
+    <name>Blue Cave (青の洞窟)</name>
+    <desc>
+      &lt;a href="http://en.okinawastory.jp/thingstodo/diving/snorkel/" target="_blank"&gt;
+        http://en.okinawastory.jp/thingstodo/diving/snorkel/
+      &lt;/a&gt;
+    </desc>
+    <type>
+      POI
+    </type>
+  </wpt>
+
+  <wpt lat="26.190552" lon="127.355545">
+    <name>Tokashiki Island (渡嘉敷)</name>
+    <desc>
+      &lt;a href="https://www.youtube.com/watch?v=zJBVGReoIwI" target="_blank"&gt;
+        https://www.youtube.com/watch?v=zJBVGReoIwI
+      &lt;/a&gt;
+    </desc>
+    <type>
+      Island
+    </type>
+  </wpt>
 </gpx>
