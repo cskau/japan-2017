@@ -29,7 +29,7 @@
 
         var hash = window.location.hash;
         if (hash) {
-          var parts = query.substring(1).split(',');
+          var parts = hash.substring(1).split(',');
           if (parts.length === 3) {
             latLonZoom[0] = parseFloat(parts[0]);
             latLonZoom[1] = parseFloat(parts[1]);
